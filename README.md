@@ -1,4 +1,4 @@
-![Banner](brand/Software History Banner.png)
+![Banner](brand/Software%20History%20Banner.png)
 
 # The Software History Society Web Page
 
